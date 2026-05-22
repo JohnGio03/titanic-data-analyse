@@ -6,28 +6,40 @@ Il consiste à explorer le célèbre dataset du Titanic à l’aide des biblioth
 
 # Objectifs
 . Charger et explorer un jeu de données réel
+
 . Comprendre la signification de chaque colonne
+
 . Calculer des statistiques descriptives simples
+
 . Réaliser des visualisations (taux de survie, répartition hommes/femmes, etc.)
+
 . Développer mes premières compétences en analyse de données
 
 # Jeu de données
 Le dataset contient des informations sur les passagers du Titanic, notamment :
 
 Âge
+
 Sexe
+
 Classe du billet
+
 Prix payé
+
 Nombre de membres de la famille à bord
+
 Statut de survie (0 = non, 1 = oui)
 
-Source du dataset :
+Source du dataset : 
 https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
 
 # Outils
 . Python
+
 . Pandas
+
 . Matplotlib
+
 . Jupyter Notebook
 
 # Notebook
@@ -55,16 +67,21 @@ Certaines colonnes contiennent des valeurs manquantes (notamment Age et Cabine)
 Au cours de ce projet, j’ai pu développer plusieurs compétences essentielles en analyse de données :
 
 Manipulation de données avec Pandas : 
+
 Chargement d’un dataset, sélection de colonnes, filtrage, statistiques simples.
 
 Visualisation de données avec Matplotlib : 
+
 Création de graphiques (diagrammes à barres) pour analyser la survie et la répartition des passagers.
 
 Compréhension d’un dataset réel :
+
 Analyse des colonnes, identification des valeurs manquantes, interprétation des résultats.
 
 Organisation d’un projet sur GitHub : 
+
 Création d’un repository, ajout d’un notebook, rédaction d’un README structuré.
 
 Premiers pas en Data Analysis :
+
 Exploration, observation, interprétation et présentation des données.
