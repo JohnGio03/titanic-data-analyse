@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
 . Jupyter Notebook
 
 # Notebook
-Le fichier principal du projet est : Titanic_analyse.ipynb
+Le fichier principal du projet est : [Titanic_analyse.ipynb…]()
 
 Il contient :
 
@@ -46,7 +46,7 @@ Des statistiques simples (df.describe())
 Des graphiques (taux de survie, répartition par sexe, etc.)
 
 # Principales observations
-La majorité des passagers n’ont pas survécu au naufrage[Uploading Titanic_analyse.ipynb…]()
+La majorité des passagers n’ont pas survécu au naufrage
 
 Le taux de survie varie fortement selon le sexe et la classe sociale
 
