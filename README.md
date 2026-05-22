@@ -46,7 +46,7 @@ Des statistiques simples (df.describe())
 Des graphiques (taux de survie, répartition par sexe, etc.)
 
 # Principales observations
-La majorité des passagers n’ont pas survécu au naufrage
+La majorité des passagers n’ont pas survécu au naufrage[Uploading Titanic_analyse.ipynb…]()
 
 Le taux de survie varie fortement selon le sexe et la classe sociale
 
