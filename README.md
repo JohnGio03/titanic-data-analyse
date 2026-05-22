@@ -31,7 +31,8 @@ https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
 . Jupyter Notebook
 
 # Notebook
-Le fichier principal du projet est : [Titanic_analyse.ipynb…]()
+Le fichier principal du projet est : [Titanic_analyse.ipynb…](Titanic_analyse.ipynb)
+)
 
 Il contient :
 
