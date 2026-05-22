@@ -53,7 +53,7 @@ L’explication de chaque colonne
 
 Des statistiques simples (df.describe())
 
-Des graphiques (taux de survie, répartition par sexe, etc.)
+Des graphiques (taux de survie, répartition par sexe)
 
 # Principales observations
 La majorité des passagers n’ont pas survécu au naufrage
@@ -61,6 +61,15 @@ La majorité des passagers n’ont pas survécu au naufrage
 Le taux de survie varie fortement selon le sexe et la classe sociale
 
 Certaines colonnes contiennent des valeurs manquantes (notamment Age et Cabine)
+
+# Améliorations possibles
+Analyse détaillée de la survie par sexe
+
+Analyse par classe (1ère, 2e, 3e)
+
+Étude de la distribution des âges
+
+Création d’une carte de corrélation
 
 
 # Compétences développées
