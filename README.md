@@ -67,21 +67,16 @@ Certaines colonnes contiennent des valeurs manquantes (notamment Age et Cabine)
 Au cours de ce projet, j’ai pu développer plusieurs compétences essentielles en analyse de données :
 
 Manipulation de données avec Pandas : 
-
 Chargement d’un dataset, sélection de colonnes, filtrage, statistiques simples.
 
 Visualisation de données avec Matplotlib : 
-
 Création de graphiques (diagrammes à barres) pour analyser la survie et la répartition des passagers.
 
 Compréhension d’un dataset réel :
-
 Analyse des colonnes, identification des valeurs manquantes, interprétation des résultats.
 
 Organisation d’un projet sur GitHub : 
-
 Création d’un repository, ajout d’un notebook, rédaction d’un README structuré.
 
 Premiers pas en Data Analysis :
-
 Exploration, observation, interprétation et présentation des données.
